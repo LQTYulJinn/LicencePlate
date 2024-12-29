@@ -1,0 +1,10 @@
+/.idea
+/.venv
+/data
+/main.py
+/plates
+/plates_database.csv
+/runs
+/train.py
+/yolo11n.pt
+/yolo11x.pt
